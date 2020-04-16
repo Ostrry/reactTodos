@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  padding: 5%;
+}
+
+.todoList {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-style: italic;
+  text-align: left;
+  padding: 5px;
+  margin: 20px;
+}
+
+.edit {
+  padding: 5px;
+  margin: 10px;
+}
+
+.delete {
+  padding: 5px;
+  margin: 10px;
+}

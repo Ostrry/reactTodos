@@ -1,2 +1,0 @@
-# reactTodos
-Created with CodeSandbox
